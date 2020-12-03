@@ -1,4 +1,4 @@
-# Project Labyrinth
+# Project Labyrinth 🕹
 
 This project's goal is to build a text-based Maze Game adventure 💥: Using React Redux and thunks. The game presents the user with a description of where they are and provide several alternatives about what they can do next. Based on their choice, the state of the game is updated; then, a new description and set of actions can be displayed to the player 💪⚔
 Pair-programming project built by: Destiny Lindgren and Vanessa Sue Smith ✌
